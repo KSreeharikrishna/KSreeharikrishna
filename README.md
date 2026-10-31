@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hello ✌️
+-I am Sreeharikrishna , a software developer and open source based in India
+- I design, build tech which interests me.
+- My Tech Stack is : 
 <!--
 **KSreeharikrishna/KSreeharikrishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
